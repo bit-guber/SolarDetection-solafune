@@ -1,0 +1,8 @@
+numpy
+pandas
+tqdm
+glob
+tifffile
+tensorflow
+seaborn
+sklearn
