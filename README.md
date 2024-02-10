@@ -39,4 +39,4 @@ This Repo contains reproduce code only that used to trained and submission for c
 - requirements.txt ( necessary packages for solution )
 
 <br>
-there few NLP Feature engineering and Gradient Boosting model that help my solution.
+there few Feature engineering and Data Augumentation that help my solution.
