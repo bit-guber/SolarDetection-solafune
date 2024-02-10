@@ -6,18 +6,18 @@
 
 <h2>Raw Image &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prediction&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TrueMask</h2>
 
-<img src = 'RGB_0.png' >
-<img src = 'pred_mask_0.png'>
-<img src = 'mask_0.png'>
+<img src = 'images/RGB_0.png' >
+<img src = 'images/pred_mask_0.png'>
+<img src = 'images/mask_0.png'>
 <br>
 <br>
-<img src = 'RGB_1.png' >
-<img src = 'pred_mask_1.png'>
-<img src = 'mask_1.png'>
+<img src = 'images/RGB_1.png' >
+<img src = 'images/pred_mask_1.png'>
+<img src = 'images/mask_1.png'>
 <br><br>
-<img src = 'RGB_2.png' >
-<img src = 'pred_mask_2.png'>
-<img src = 'mask_2.png'>
+<img src = 'images/RGB_2.png' >
+<img src = 'images/pred_mask_2.png'>
+<img src = 'images/mask_2.png'>
 </center>
 
 ## Problem Overview
