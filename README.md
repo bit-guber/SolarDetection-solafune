@@ -2,23 +2,12 @@
 
 ### this solution got me passed `F1-wise 0.607` (higher is better) and `10, 13 place` on Public, Private LeaderBoard respectively [here](https://solafune.com/competitions/5dfc315c-1b24-4573-804f-7de8d707cd90?menu=lb&tab=public&topicId=1143a379-29c4-415e-aeb4-fc761ce9b243) as name as `bitGuber`
 
-<center>
 
-<h2>Raw Image &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prediction&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TrueMask</h2>
-
-<img src = 'images/RGB_0.png' >
-<img src = 'images/pred_mask_0.png'>
-<img src = 'images/mask_0.png'>
-<br>
-<br>
-<img src = 'images/RGB_1.png' >
-<img src = 'images/pred_mask_1.png'>
-<img src = 'images/mask_1.png'>
-<br><br>
-<img src = 'images/RGB_2.png' >
-<img src = 'images/pred_mask_2.png'>
-<img src = 'images/mask_2.png'>
-</center>
+Raw Image  |  Prediction  |  TrueMask
+:-------------------------:|:-------------------------:|:--------------------------:
+![](images/RGB_0.png)  |  ![](images/pred_mask_0.png) | ![](images/mask_0.png)
+![](images/RGB_1.png)  |  ![](images/pred_mask_1.png) | ![](images/mask_1.png)
+![](images/RGB_2.png)  |  ![](images/pred_mask_2.png) | ![](images/mask_2.png)
 
 ## Problem Overview
 In recent years, the installation of solar panels has increased as renewable energy sources have become more prevalent. Knowing the exact location and footprint of these panels is crucial for energy supply planning, infrastructure optimization, and disaster prediction.
